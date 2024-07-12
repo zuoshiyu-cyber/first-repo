@@ -1,0 +1,4 @@
+这是文件2的内容” > file2.txt
+git status
+
+ echo 这是文件2的内容”
